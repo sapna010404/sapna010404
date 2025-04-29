@@ -1,5 +1,5 @@
 # 💫 About Me:
-"👋 Hi, I'm Sapna, a data enthusiast on GitHub. <br>📊Exploring the world of numbers and patterns. <br>Check out my journey into data science! 📊 #DataCuriosity"
+"👋 Hi, I'm Sapna, a data enthusiast on GitHub. I'm currently pursuing my Masters degree in Computer Applications! <br>📊Exploring the world of numbers and patterns. <br>Check out my journey into data science! 📊 #DataCuriosity"
 
 
 ## 🌐 Socials:
