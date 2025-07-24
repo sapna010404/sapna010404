@@ -24,9 +24,6 @@ Always curious, always learning — and excited for what’s next in my journey!
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sapna010404&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=sapna010404&icon=0&color=10)](https://visitcount.itsvg.in)
 
