@@ -1,15 +1,15 @@
 # 💫 About Me:
-👋 Hi, I'm Sapna,a passionate data enthusiast currently pursuing my Master's in Computer Applications. I enjoy turning data into insights, finding patterns in chaos, and building meaningful tech solutions. Whether it’s analyzing numbers, designing user-friendly web apps, or diving into backend logic, I’m always up for a challenge.
+👋 Hi, I'm Sapna. I'm currently pursuing my Master's in Computer Applications and love learning about tech and data.
+I'm exploring data science and full-stack web development using tools like JavaScript, Node.js, Express, EJS, SQL, MongoDB, and Python.
 
-I’ve been exploring data science, backend development, and full-stack projects using tools like Python, Java, Node.js, SQL, and EJS. I love learning by building, contributing to open-source, and collaborating with peers.
+I enjoy building projects, solving problems, and working on real-world applications.
+Always curious, always learning — and excited for what’s next in my journey!
 
-Outside of coding, you’ll probably find me sketching out ideas, organizing tasks in my to-do list, or binging on dev content. I'm constantly curious, always learning, and genuinely excited about where this tech journey leads! 
-Check out my journey into data science! 📊 #DataCuriosity
+ 📊 #DataCuriosity
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sapna0104)
 
-# 💻 Tech Stack:
 
 # 💻 Tech Stack:
 #💻 Tech Stack:
